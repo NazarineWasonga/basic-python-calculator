@@ -3,7 +3,6 @@
 This is a simple Python command-line calculator that performs basic arithmetic operations.
 
 ## 🚀 Features
-
 - Accepts two numbers from the user
 - Supports the following operations:
   - Addition (+)
@@ -12,9 +11,7 @@ This is a simple Python command-line calculator that performs basic arithmetic o
   - Division (/)
 - Displays the full equation and result
 - Handles division by zero gracefully
-
 ## 📝 Example Usage
-
 Enter the first number: 10
 Enter the second number: 5
 Enter the operation (+, -, *, /): +
@@ -23,9 +20,7 @@ Enter the operation (+, -, *, /): +
 markdown
 Copy
 Edit
-
 ## 🛠 How to Run
-
 1. Make sure you have Python installed (version 3+)
 2. Save the script as `calculator.py`
 3. Open a terminal or command prompt
